@@ -1,10 +1,9 @@
 
 ### Hi there, I am Swayanshu Sekhar👋
 
-## I'm a 🎓Student, 💻 Web_Developer and 🎮 Game_Developer
-- 🔭 I’m currently working on Game Development
+## I'm a 🎓Student, 💻 Web_Developer
 - 🌱 I’m currently learning everything
-- ⚡ Fun fact: I ❤️ love to make useful websites and games.
+- ⚡ Fun fact: I ❤️ love to make useful websites.
 
 ### Connect with me:
 
